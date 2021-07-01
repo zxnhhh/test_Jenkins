@@ -5,3 +5,4 @@ echo "third test for push trigger Jenkins build..."
 echo "fourth test for push trigger Jenkins build..."
 echo "fifth test for push trigger Jenkins build..."
 echo "test on my pc..."
+error
