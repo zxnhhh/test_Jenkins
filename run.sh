@@ -4,4 +4,4 @@ echo "second test for push trigger Jenkins build..."
 echo "third test for push trigger Jenkins build..."
 echo "fourth test for push trigger Jenkins build..."
 echo "fifth test for push trigger Jenkins build..."
-#error
+error
