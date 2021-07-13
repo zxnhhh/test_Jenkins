@@ -8,4 +8,4 @@ echo "error"
 echo "warning"
 echo "Warning"
 echo "WARNING"
-error
+#error
