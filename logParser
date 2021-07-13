@@ -2,6 +2,7 @@ ok /not really/
 
 # match line starting with 'error ', case-insensitive
 error /(?i)^error /
+error /(?i)^failure /
 
 # list of warnings here...
 warning /[Ww]arning/
