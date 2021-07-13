@@ -6,6 +6,7 @@ ok /not really/
 #error /failure /
 error /command not found /
 error /(?i)^first/
+error /(?i)push /
 
 # list of warnings here...
 warning /[Ww]arning/
