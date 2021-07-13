@@ -9,5 +9,5 @@ echo "run regression is error"
 echo "this is a warning"
 echo "Warning is here"
 echo "WARNING"
-#error
+error
 echo "test is complete"
