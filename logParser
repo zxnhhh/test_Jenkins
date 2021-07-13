@@ -1,18 +1,17 @@
+#log parsing: ok/error/warn/info/start
+
 ok /not really/
 
 # match line starting with 'error ', case-insensitive
-#error /(?i)^error /
+error /(?i)^error /
 #error /(?i)^failure /
 #error /failure /
-error /command not found /
-error /(?i)^first/
-#error /(?i)pUsH /
-error /(?i)^pUsH /
+#error /command not found /
 
 # list of warnings here...
-warning /[Ww]arning/
-warning /WARNING/
-warning /test/
+#warning /[Ww]arning/
+#warning /WARNING/
+warning /(?i)wArNinG/
 
 # create a quick access link to lines in the report containing 'INFO'
 info /INFO/
