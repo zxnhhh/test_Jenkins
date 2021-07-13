@@ -11,3 +11,4 @@ echo "Warning is here"
 echo "WARNING"
 error
 echo "test is complete"
+error
