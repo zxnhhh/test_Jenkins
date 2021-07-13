@@ -5,10 +5,12 @@ ok /not really/
 #error /(?i)^failure /
 #error /failure /
 error /command not found /
+error /(?i)^first/
 
 # list of warnings here...
 warning /[Ww]arning/
 warning /WARNING/
+warning /test/
 
 # create a quick access link to lines in the report containing 'INFO'
 info /INFO/
