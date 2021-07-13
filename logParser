@@ -3,7 +3,7 @@
 ok /not really/
 
 # match line starting with 'error ', case-insensitive
-error /(?i)^error /
+error /(?i)^error: /
 #error /(?i)^failure /
 #error /failure /
 #error /command not found /
