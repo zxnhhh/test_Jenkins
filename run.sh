@@ -10,7 +10,10 @@ echo "run regression is error"
 echo "this is a warning"
 echo "Warning is here"
 echo "BUILD"
+echo "error is here"
+echo "errora "
 echo "WARNING"
+echo "warning: test"
 #error  #Jenkins build only detect the last statement. Build will be success if no line 14(error).
 echo "test is complete"
 #error
