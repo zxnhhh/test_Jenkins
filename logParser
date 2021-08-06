@@ -14,7 +14,8 @@ error /Is/
 #warning /[Ww]arning/
 #warning /WARNING/
 #warning /(?i)wArNinG/
-warning /warning:/
+#warning /warning:/
+warnig /(?!)warning/
 
 # create a quick access link to lines in the report containing 'INFO'
 info /INFO/
