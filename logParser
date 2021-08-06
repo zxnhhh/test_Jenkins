@@ -4,7 +4,7 @@ ok /not really/
 
 # match line starting with 'error ', case-insensitive
 #error /(?i)^error: /
-error /(?!)Error/
+error /Error/
 error /Is/
 #error /(?i)^failure /
 #error /failure /
