@@ -6,6 +6,7 @@ ok /not really/
 #error /(?i)^error: /
 error /Error/
 error /Is/
+error /(?i)wArNinG/
 #error /(?i)^failure /
 #error /failure /
 #error /command not found /
