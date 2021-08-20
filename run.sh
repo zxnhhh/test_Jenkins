@@ -17,3 +17,4 @@ echo "warning: test"
 #error  #Jenkins build only detect the last statement. Build will be success if no line 14(error).
 echo "test is complete"
 #error
+echo "test git log"
